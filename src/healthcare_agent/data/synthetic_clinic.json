@@ -1,0 +1,50 @@
+{
+  "_note": "All records are synthetic and do not describe real people.",
+  "patients": [
+    {
+      "id": "P-1001",
+      "name": "Maria Alvarez",
+      "date_of_birth": "1984-03-12",
+      "phone": "555-0142",
+      "insurance": {"provider": "Acme Health", "member_id": "AH-882134"},
+      "allergies": ["penicillin"],
+      "primary_department": "primary_care"
+    },
+    {
+      "id": "P-1002",
+      "name": "James Okafor",
+      "date_of_birth": "1957-11-02",
+      "phone": "555-0187",
+      "insurance": {"provider": "Medicare", "member_id": "1EG4-TE5-MK72"},
+      "allergies": [],
+      "primary_department": "cardiology"
+    },
+    {
+      "id": "P-1003",
+      "name": "Priya Raman",
+      "date_of_birth": "1996-07-28",
+      "phone": "555-0119",
+      "insurance": {"provider": "Blue Meadow PPO", "member_id": "BMP-55120"},
+      "allergies": ["latex", "sulfa drugs"],
+      "primary_department": "dermatology"
+    },
+    {
+      "id": "P-1004",
+      "name": "Maria Chen",
+      "date_of_birth": "1971-01-19",
+      "phone": "555-0163",
+      "insurance": {"provider": "Acme Health", "member_id": "AH-120977"},
+      "allergies": [],
+      "primary_department": "primary_care"
+    }
+  ],
+  "slots": [
+    {"id": "S-01", "department": "primary_care", "provider": "Dr. Lena Hart", "start": "2026-10-14T09:00"},
+    {"id": "S-02", "department": "primary_care", "provider": "Dr. Lena Hart", "start": "2026-10-14T10:30"},
+    {"id": "S-03", "department": "primary_care", "provider": "Dr. Sam Boateng", "start": "2026-10-15T14:00"},
+    {"id": "S-04", "department": "cardiology", "provider": "Dr. Ana Ruiz", "start": "2026-10-16T08:30"},
+    {"id": "S-05", "department": "cardiology", "provider": "Dr. Ana Ruiz", "start": "2026-10-20T13:00"},
+    {"id": "S-06", "department": "dermatology", "provider": "Dr. Kenji Ito", "start": "2026-10-15T11:00"},
+    {"id": "S-07", "department": "dermatology", "provider": "Dr. Kenji Ito", "start": "2026-10-21T15:30"}
+  ]
+}

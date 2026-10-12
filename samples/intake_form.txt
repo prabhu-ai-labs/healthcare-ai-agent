@@ -1,0 +1,17 @@
+NEW PATIENT INTAKE FORM  (synthetic sample - not a real person)
+
+Name: Priya Raman
+Date of birth: 07/28/1996
+Phone: 555-0119
+
+Insurance carrier: Blue Meadow PPO
+Member ID: BMP-55120
+
+Reason for visit: Itchy rash on both forearms for about two weeks, getting worse.
+Would like to be seen this week if possible.
+
+Current medications:
+  - Cetirizine 10 mg once daily
+  - Oral contraceptive (name not listed)
+
+Allergies: latex, sulfa drugs
